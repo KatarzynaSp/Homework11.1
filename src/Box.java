@@ -41,4 +41,8 @@ class Box {
     public int hashCode() {
         return Objects.hash(word, number);
     }
+
+    public String toString() {
+        return word + " " + number;
+    }
 }
