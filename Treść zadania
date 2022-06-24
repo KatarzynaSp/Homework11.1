@@ -1,0 +1,9 @@
+Treść zadania
+Wymyśl dowolny, nowy typ obiektowy, który będzie przechowywał co najmniej dwa pola (w tym co najmniej jedno typu String i jedno typu prostego). 
+W programie utwórz tablicę, która będzie przechowywała obiekty tego typu. Tablica może mieć dowolny rozmiar, ale najlepiej nie większy niż 3, 
+aby ograniczyć ilość tekstu wprowadzanego później w konsoli.
+
+Następnie napisz kod, który pozwoli użytkownikowi podawać dane na temat kolejnych obiektów, które będą umieszczane w tej tablicy tak długo, 
+aż tablica nie zostanie zapełniona. W tablicy powinny znaleźć się jedynie unikalne obiekty, jeżeli ktoś będzie próbował dodać do tablicy obiekt identyczny z takim, 
+który już się w niej znajduje, to powinien zostać wyświetlony komunikat "Duplikat", a użytkownik powinien być poproszony o wprowadzenie informacji o obiekcie 
+jeszcze raz - do skutku.
